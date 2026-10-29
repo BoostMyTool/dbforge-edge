@@ -8,11 +8,7 @@ Master multi-database development, streamline PostgreSQL workflows, and accelera
 
 ## 📺 Watch the Complete Tutorial
 
-[![Watch the Video](https://img.youtube.com/vi/2Z99Mqd_uTc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2Z99Mqd_uTc)
-
-> 💡 *Click the thumbnail above to watch the step-by-step tutorial on YouTube.*
-
----
+▶️ **[Watch the Step-by-Step Video Tutorial on YouTube](https://www.youtube.com/watch?v=2Z99Mqd_uTc)**
 
 ## 📖 Overview
 
